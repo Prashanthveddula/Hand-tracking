@@ -1,0 +1,31 @@
+absl-py==0.13.0
+astroid @ file:///C:/ci/astroid_1625075966600/work
+attrs==21.2.0
+bandit==1.7.0
+certifi==2021.5.30
+colorama==0.4.4
+cycler==0.10.0
+gitdb==4.0.7
+GitPython==3.1.18
+isort @ file:///tmp/build/80754af9/isort_1624300337312/work
+kiwisolver==1.3.1
+lazy-object-proxy @ file:///C:/ci/lazy-object-proxy_1616529288960/work
+matplotlib==3.4.2
+mccabe==0.6.1
+mediapipe==0.8.6
+numpy==1.21.0
+opencv-contrib-python==4.5.2.54
+opencv-python==4.5.2.54
+pbr==5.6.0
+Pillow==8.3.1
+protobuf==3.17.3
+pylint @ file:///C:/ci/pylint_1625467952223/work
+pyparsing==2.4.7
+python-dateutil==2.8.1
+PyYAML==5.4.1
+six==1.16.0
+smmap==4.0.0
+stevedore==3.3.0
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+wincertstore==0.2
+wrapt @ file:///C:/ci/wrapt_1607574570428/work
